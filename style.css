@@ -3,4 +3,8 @@ table{font-size: 0.8em;font-family: "George";border-collapse: collapse;width: 10
 .table td, .table th{padding:8px;text-align:center;border:1px solid #333;}
 .table tr:hover{background: #F0F0F0;}
 .center{text-align:center;}
-a,a:link,a:active,a:visited,a:hover {color:#08c;text-decoration: none;}
+a{color:#08c}
+a:link{color:#08c}
+a:visited{color:#08c}
+a:hover{color:#08c}
+a:active{color:#08c}
